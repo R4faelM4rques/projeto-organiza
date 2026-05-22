@@ -4,4 +4,3 @@ App para organizacao de projetos
 ---
 
 ## Projeto
-###Projeto
