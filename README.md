@@ -1,7 +1,8 @@
 # Projeto Organiza
-App para organizacao de projetos
+Aplicacao de organizar clientes e os projetos do determinado cliente.
 
 ---
 
-## Projeto
-**teste**
+## Funcionalidades
+     -Adicionar, Eliminar, Procurar e Selecionar **Cliente**
+     -Adicionar, Eliminar, Procurar e Fazer download de **projetos**
