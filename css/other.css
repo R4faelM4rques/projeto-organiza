@@ -9,7 +9,7 @@
 body {
       font-family: Arial, sans-serif;
       background-color: rgb(231, 210, 86);
-      padding: 30px;
+      padding: 31px;
     }
 
 .cuteIcon{
@@ -22,3 +22,33 @@ body {
         color: white;
         text-decoration:none;
     }
+
+.middleCriar{
+  margin:auto;
+  width: 350px;
+  padding: 25px;
+  background-color: rgb(109, 255, 80);
+  border-radius: 15px;
+}
+
+ button {
+      border: none;
+      padding: 8px 14px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: bold;
+
+      width: 55%;
+      margin-left: 20%;
+      margin-right: auto;
+    }
+
+button:hover {
+      opacity: 0.85;
+      transform: scale(1.15);
+    }
+  
+.buttonCriar{
+      background: #479944;
+      color: white;
+}
