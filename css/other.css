@@ -27,7 +27,7 @@ body {
   margin:auto;
   width: 350px;
   padding: 25px;
-  background-color: rgb(109, 255, 80);
+  background-color: rgb(80, 112, 255);
   border-radius: 15px;
 }
 
@@ -49,6 +49,6 @@ button:hover {
     }
   
 .buttonCriar{
-      background: #479944;
+      background: #2e2afa;
       color: white;
 }
